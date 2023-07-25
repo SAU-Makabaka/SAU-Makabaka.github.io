@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>玛卡巴卡有一块搓脚石.</title>
   
-  
+  <subtitle>你好啊</subtitle>
   <link href="https://sau-makabaka.github.io/atom.xml" rel="self"/>
   
   <link href="https://sau-makabaka.github.io/"/>
-  <updated>2023-07-25T05:39:35.403Z</updated>
+  <updated>2023-07-25T09:56:44.349Z</updated>
   <id>https://sau-makabaka.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于MindSpore的FCN图像语义分割</title>
+    <link href="https://sau-makabaka.github.io/2023/07/25/mindspore-fcn8s/"/>
+    <id>https://sau-makabaka.github.io/2023/07/25/mindspore-fcn8s/</id>
+    <published>2023-07-25T08:22:12.442Z</published>
+    <updated>2023-07-25T09:56:44.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;FCN图像语义分割&quot;&gt;&lt;a href=&quot;#FCN图像语义分割&quot; class=&quot;headerlink&quot; title=&quot;FCN图像语义分割&quot;&gt;&lt;/a&gt;FCN图像语义分割&lt;/h1&gt;&lt;p&gt;全卷积网络（Fully Convolutional</summary>
+        
+      
+    
+    
+    
+    <category term="项目" scheme="https://sau-makabaka.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="FCN" scheme="https://sau-makabaka.github.io/tags/FCN/"/>
+    
+    <category term="MindSpore" scheme="https://sau-makabaka.github.io/tags/MindSpore/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
